@@ -45,4 +45,15 @@ Usage:
    
 __If you use the code, please consider citing the following paper:__
 
-[L. Fang, C. Wang, S. Li, H. Rabbani, X. Chen and Z. Liu, "Attention to Lesion: Lesion-Aware Convolutional Neural Network for Retinal Optical Coherence Tomography Image Classification," in IEEE Transactions on Medical Imaging, vol. 38, no. 8, pp. 1959-1970, Aug. 2019, doi: 10.1109/TMI.2019.2898414.](https://ieeexplore.ieee.org/document/8637959)
+```
+@article{fang2019attention,
+  title={Attention to lesion: Lesion-aware convolutional neural network for retinal optical coherence tomography image classification},
+  author={Fang, Leyuan and Wang, Chong and Li, Shutao and Rabbani, Hossein and Chen, Xiangdong and Liu, Zhimin},
+  journal={IEEE transactions on medical imaging},
+  volume={38},
+  number={8},
+  pages={1959--1970},
+  year={2019},
+  publisher={IEEE}
+}
+```
